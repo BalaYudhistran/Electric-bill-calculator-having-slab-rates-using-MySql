@@ -1,5 +1,8 @@
 #create database if not exists PLAN;
 #use PLAN;
+
+### Upload the data from `Data TEST-WhatsmyBill_ElectricityBill.xlsx` 
+
 #select * from plan.plan_details; 
 
 
